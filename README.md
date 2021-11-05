@@ -12,25 +12,6 @@ The files &quot;mval\_mediator\_sorted.csv&quot; and &quot;mval\_outcome\_sorted
 
 The raw data from the Normative Aging study is not publicly available.
 
-**Description (Mandatory if data available)**
-
-Permissions (demonstrate that author has legitimate access to data)
-
-Licensing information
-
-Link to data (e.g., dataverse.org, datadryad.org; this need not be the actual link at time of submission but if not, it should indicate where the data will be deposited if the manuscript is accepted)
-
-Data provenance, including identifier or link to original data if different than above
-
-File format
-
-Metadata (including data dictionary)
-
-Version information
-
-**Optional Information (complete as necessary)**
-
-Unique identifier / DOI
 
 ## Code
 
