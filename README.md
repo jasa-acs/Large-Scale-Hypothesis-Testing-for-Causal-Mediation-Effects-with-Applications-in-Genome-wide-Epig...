@@ -1,5 +1,5 @@
 # Large-Scale Hypothesis Testing for Causal Mediation Effects with Applications in Genome-wide Epigenetic Studies
-
+### Zhonghua Liu, Jincheng Shen, Richard Barfield, Joel Schwartz, Andrea A. Baccarelli & Xihong Lin
 # Author Contributions Checklist Form
 
 ## Data
